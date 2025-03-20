@@ -1,0 +1,6 @@
+In Python you can use a list to represent a collection of values.
+In Python you can use a dictionary to represent information about one object.
+In Python you can also use a dictionary to represent similar information about many objects.
+In Python you can use a while loop to remove all occurrences of a value in a list.
+In Python you can use a set to represent a collection of information where each value is unique.
+In Python you can use a tuple to represent information that will not change.

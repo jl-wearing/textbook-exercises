@@ -1,0 +1,2 @@
+Python Crash Course | A Hands-On, Project-Based Introduction To Programming by Eric Matthes | No Starch Press
+Starting Out with Python | Fifth Edition by Tony Gaddis | Pearson
