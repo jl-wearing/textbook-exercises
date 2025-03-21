@@ -1,0 +1,31 @@
+//A class is a blueprint for object construction.
+//A class describes the behaviour of an object.
+//An object is an entity that can do work for you when you invoke methods on them.
+//A method is a sequence of instructions that access the data of an object.
+
+A variable is a storage location with a name.
+Primitive Types: byte, short, int, long, float, double, char, boolean
+
+Data types specify the operations that can be performed on a variable.
+
+An object performs work for you when you invoke methods on them.
+All objects of a given class share a common set of methods.
+
+String objects are immutable.
+String methods:
+length() returns the length of a string.
+toUpperCase() returns a string with all characters in uppercase. toLowerCase() does the opposite.
+replace() carries out a search-and-replace operation. It replaces all occurrences of target with replacement.
+String river = Mississippi
+river.replace(ïssipp, our) -> Missouri
+
+The methods of a class form the public interface of a class.
+The public interface of a class specifies what you can do with its objects.
+The private implementation describes the data inside the objects & the instructions inside the methods.
+
+An access modifier specifies the scope of a method, variable, class or constructor.
+Methods with the same name, return type but different arguments is said to be overloaded. e.g. print(string output), print(int output)
+
+The process of creating an object is called construction.
+The new keyword is used to construct objects.
+The values supplied to a constructor are called construction arguments.

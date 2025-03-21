@@ -1,0 +1,17 @@
+By default, all shapes and strings are drawn with a black pen.
+To change the color of the pen, you need to supply an object of type Color.
+Java uses the RGB model. - This means when you specify a color, you specify the 
+amounts of primary colors that make up the color.
+The amounts are given as integers between 0 & 255. 255 means maximum amount present and 0 means primary color not present.
+The greater the integer, the greater the presence of primary color.
+
+e.g. Color magenta = new Color(255, 0, 255) means maximum red, no green, maximum blue.
+The Color class has a predefined set of colors for your convenience.
+
+To draw a shape in a different color, first set the color of the Graphics2D object, then use the draw() method.
+e.g. g2.setColor(Color.RED);
+g2.draw(shape);
+
+If you want to color the inside of the shape, use the fill() method instead.
+g2.setColor(Color.GREEN);
+g2.fill(shape);
