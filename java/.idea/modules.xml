@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big_java_early_objects/3_implementing_classes/3_implementing_classes.iml" filepath="$PROJECT_DIR$/big_java_early_objects/3_implementing_classes/3_implementing_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big_java_early_objects/9_inheritance/9_inheritance.iml" filepath="$PROJECT_DIR$/big_java_early_objects/9_inheritance/9_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big_java_early_objects/big_java_early_objects.iml" filepath="$PROJECT_DIR$/big_java_early_objects/big_java_early_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
     </modules>
   </component>
 </project>
