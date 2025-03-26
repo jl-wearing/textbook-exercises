@@ -1,0 +1,23 @@
+body {
+    background-color: #333333;
+    color: whitesmoke;
+    min-height: 800px;
+    display: flex;
+    border: 10px solid black;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: #0071FF;
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

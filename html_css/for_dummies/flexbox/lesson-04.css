@@ -1,0 +1,22 @@
+body {
+    background-color: #333333;
+    color: whitesmoke;
+    border: 10px solid black;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.box {
+    background-color: #0071FF;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+.box-1 {
+    flex-shrink: 0;
+}
